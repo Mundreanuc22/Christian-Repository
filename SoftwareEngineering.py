@@ -21,7 +21,7 @@ def encoder(password):
 
 
 
-#Main function that initializes a loop, displays menu, then prompts user to insert password from list of options
+#Main function that initializes a loop, displays menu, then prompts user to insert password from list of options, including the ability to decode
 if __name__ == '__main__':
     decoder = True
     while decoder:
